@@ -1,0 +1,66 @@
+body {
+    background-image: url(imagens/background.webp);
+    background-size: 100%;
+}
+
+.container {
+    display: flex;
+}
+
+.N{
+    font-weight: bold;
+}
+
+.corRoxa {
+    color: darkviolet;
+}
+
+#nome {
+    color: rgb(255, 255, 255);
+    font-size: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    margin-top: 0%;
+    margin-left: 8%;
+}
+
+#texto {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    bottom: 1%;
+    margin-right: 45%;
+    margin-left: 6%;
+    text-align: left;
+}
+
+.t2 {
+    position: relative;
+    left: 32%;
+    margin-top: 6%;
+}
+
+.imgs {
+    position: relative;
+    left: 7%;
+    top: 100px;
+}
+
+.imgs2 {
+    position: relative;
+    left: 60%;
+    bottom: 560px;
+    padding: 3%;
+}
+
+
+#contato {
+    color: rgb(236, 230, 230);
+    font-size: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 10%;
+    top: 18%;
+}
+
