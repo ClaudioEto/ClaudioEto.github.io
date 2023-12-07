@@ -19,7 +19,7 @@
 }
 
 .tema2{
-    background: linear-gradient(245deg, rgba(96,31,31,1) 0%, rgba(0,0,0,1) 100%);
+    background: url(image/backEscuro.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
